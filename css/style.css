@@ -1,0 +1,279 @@
+h1{
+	text-align: center;
+	font-size: 50px;
+	color: black;
+}
+.content{
+height: 300px;
+width: 1350px;
+background-color: black;
+}
+
+.content1{
+height: 300px;
+width: 1350px;
+background-color: black;
+}
+.content2{
+height: 300px;
+width: 1350px;
+background-color: black;
+}
+
+
+
+.head{
+	display: none;
+}
+.head1{
+	display: none;
+}
+.head2{
+	display: none;
+}
+.head3{
+	display: none;
+}
+.head4{
+	display: none;
+}
+.head5{
+	display: none;
+}
+.head6{
+	display: none;
+}
+.head7{
+	display: none;
+}
+.head8{
+	display: none;
+}
+.head9{
+	display: none;
+}
+.head10{
+	display: none;
+}
+.head11{
+	display: none;
+}
+.head12{
+	display: none;
+}
+.head13{
+	display: none;
+}
+.head14{
+	display: none;
+}
+.head15{
+	display: none;
+}
+.head16{
+	display: none;
+}
+.head17{
+	display: none;
+}
+
+
+
+
+.one{
+	background-color: #0B615E;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+
+}
+.two{
+	background-color: #086A87;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+.three{
+	background-color: #04B4AE;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+.four{
+	background-color: #DF7401;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+.five{
+	background-color: #9A2EFE;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+.six{
+	background-color: #088A4B;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+
+.one1{
+	background-color: #38610B;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+
+}
+.two1{
+	background-color:#0040FF;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+.three1{
+	background-color: #DF3A01;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+.four1{
+	background-color: #FA58D0;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+.five1{
+	background-color: #FA5882;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+.six1{
+	background-color: #58ACFA;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+.one2{
+	background-color: #86B404;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+
+}
+.two2{
+	background-color: #8A0868;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+.three2{
+	background-color: #9F81F7;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+.four2{
+	background-color: #8A2908;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+.five2{
+	background-color: #848484;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+.six2{
+	background-color: #FE2E2E;
+	height: 290px;
+	width: 220px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+}
+img:hover{
+opacity: 0.7;
+}
+.footer{
+	height: 70px;
+width: 1350px;
+background-color: black;
+text-align: center;
+
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: black;
+  color: white;
+}
+
+.fa-twitter {
+  background:black;
+  color: white;
+}
+
+.fa-github {
+  background: black;
+  color: white;
+}
+
+.fa-linkedin {
+  background: black;
+  color: white;
+}
+
+
+.fa-instagram {
+  background: black;
+  color: white;
+}

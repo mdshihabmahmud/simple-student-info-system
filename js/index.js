@@ -1,0 +1,59 @@
+$(document).ready(function(){
+	$(".p").click(function(){
+		$(".head").slideToggle(1000);
+	});
+	$(".pa").click(function(){
+		$(".head1").slideToggle(1000);
+	});
+	$(".pb").click(function(){
+		$(".head2").slideToggle(1000);
+	});
+	$(".pc").click(function(){
+		$(".head3").slideToggle(1000);
+	});
+	$(".pd").click(function(){
+		$(".head4").slideToggle(1000);
+	});
+	$(".pe").click(function(){
+		$(".head5").slideToggle(1000);
+	});
+	$(".pf").click(function(){
+		$(".head6").slideToggle(1000);
+	});
+	$(".pg").click(function(){
+		$(".head7").slideToggle(1000);
+	});
+	$(".ph").click(function(){
+		$(".head8").slideToggle(1000);
+	});
+	$(".pi").click(function(){
+		$(".head9").slideToggle(1000);
+	});
+	$(".pj").click(function(){
+		$(".head10").slideToggle(1000);
+	});
+	$(".pk").click(function(){
+		$(".head11").slideToggle(1000);
+	});
+	$(".pL").click(function(){
+		$(".head12").slideToggle(1000);
+	});
+	
+    $(".pm").click(function(){
+		$(".head13").slideToggle(1000);
+	});
+	$(".pn").click(function(){
+		$(".head14").slideToggle(1000);
+	});
+	$(".po").click(function(){
+		$(".head15").slideToggle(1000);
+	});
+	$(".pp").click(function(){
+		$(".head16").slideToggle(1000);
+	});
+	$(".pq").click(function(){
+		$(".head17").slideToggle(1000);
+	});
+	
+	
+});
